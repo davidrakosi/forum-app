@@ -8,6 +8,7 @@ function App() {
     <Wrapper>
       <Header />
       <Main>
+        {/* comment */}
         <MainContent>
           <ContentWrapper>
             {postDummyData.map((post, index) => (
